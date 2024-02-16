@@ -6,3 +6,4 @@ v4
 v5
 v6 -Sonar cloud custom quality gate test
 v7
+v8
